@@ -1,0 +1,1 @@
+This project is a laboratory work on the book "The C ++ Programming Language" by Stephen Prata.
